@@ -18,5 +18,3 @@
 [통신을 도와주는 네트워크 기술](https://uung-dev.tistory.com/26)
 
 [보안](https://uung-dev.tistory.com/27)
-
-[네트워크 디자인]
